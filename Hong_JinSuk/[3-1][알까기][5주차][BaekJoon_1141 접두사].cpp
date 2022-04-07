@@ -21,35 +21,39 @@ int main() {
 
 	string a;
 	int b;
-	vector<pair<string,int>> str; // ±ÛÀÚ + ±ÛÀÚ±æÀÌ
+	vector<pair<string,int>> str; // ê¸€ì + ê¸€ìê¸¸ì´
 
 	for (int i = 0; i < n; i++) {
 		cin >> a;
 		b = a.size();
 		str.push_back({ a,b });
-	} // Á¦´ë·Î µÈ´Ù.
+	}
 
-	sort(str.begin(), str.end(), compare); // ±æÀÌ°¡ ÂªÀº ¼ø¹øÀ¸·Î Á¤·Äok
+	sort(str.begin(), str.end(), compare); // ê¸¸ì´ê°€ ì§§ì€ ìˆœë²ˆìœ¼ë¡œ ì •ë ¬ok
 
 	for (int i = 0; i < str.size(); i++)
 		cout << str[i].first << ' ' << str[i].second << endl;
 
 	int cnt = 0;
+	
 	for (int i = 0; i < n; i++) {
-		//cout << "i : " << i << endl;
-		if (str[i].second != -1) { // ÀÌ¹Ì ´Ù¸¥ ÁıÇÕ¿¡ µé¾î°£ ¿ø¼Ò´Â Á¦¿Ü
-			str[i].second = -1; // ÁıÇÕ¿¡ µé¾î°¨. 1:a.second=-1
+		
+		if (str[i].second != -1) { // ì´ë¯¸ ë‹¤ë¥¸ ì§‘í•©ì— ë“¤ì–´ê°„ ì›ì†ŒëŠ” ì œì™¸
+			
+			str[i].second = -1; // ì§‘í•©ì— ë“¤ì–´ê°. 1:a.second=-1
 			string L_str = str[i].first; // 1:L_str=a,
 			int len = str[i].first.size(); 
-			for (int j = 0; j < n; j++) { // i¿¡ ÇØ´çÇÏ´Â ¿ø¼Ò¿¡ ´ëÇØ ³ª¸ÓÁö ¸ğµç ¿ø¼Ò ºñ±³
-				if (L_str == str[j].first) str[j].second = -1; // Áßº¹µÇ´Â ¿ø¼Ò´Â Á¦¿Ü j=2: ab -1
+			
+			for (int j = 0; j < n; j++) { // iì— í•´ë‹¹í•˜ëŠ” ì›ì†Œì— ëŒ€í•´ ë‚˜ë¨¸ì§€ ëª¨ë“  ì›ì†Œ ë¹„êµ
+				len = L_str.size();
+				if (L_str == str[j].first) str[j].second = -1; // ì¤‘ë³µë˜ëŠ” ì›ì†ŒëŠ” ì œì™¸ j=2: ab -1
 				if (str[j].second != -1 && L_str == str[j].first.substr(0, len)) {
-					L_str = str[j].first; // str.first°¡ L_str¸¦ Æ÷ÇÔÇÏ¹Ç·Î ±³Ã¼
-					len = L_str.size();
-					str[j].second = -1; // °°Àº ÁıÇÕ¿¡ µé¾î¿ÔÀ¸¹Ç·Î Á¦¿Ü
+					L_str = str[j].first; // str.firstê°€ L_strë¥¼ í¬í•¨í•˜ë¯€ë¡œ êµì²´
+					str[j].second = -1; // ê°™ì€ ì§‘í•©ì— ë“¤ì–´ì™”ìœ¼ë¯€ë¡œ ì œì™¸
 				}
 			}
-			cnt++; //ÁıÇÕÀÇ °¹¼ö ¼¼ÁÜ
+			
+			cnt++; //ì§‘í•©ì˜ ê°¯ìˆ˜ ì„¸ì¤Œ
 		}
 	}
 
