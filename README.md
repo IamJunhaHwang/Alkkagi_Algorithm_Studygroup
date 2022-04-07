@@ -38,5 +38,5 @@
   |2주차|계단 오르기|[백준 2579](https://www.acmicpc.net/problem/2579)|DP|S3
   |3주차|수 복원하기|[백준 2312](https://www.acmicpc.net/problem/2312)|수학|S3
   |4주차|회의실 배정|[백준 1931](https://www.acmicpc.net/problem/1931)|그리디|S2
-  |5주차|접두사|[백준 1141](https://www.acmicpc.net/problem/1141)|?|
+  |5주차|접두사|[백준 1141](https://www.acmicpc.net/problem/1141)|구현, 정렬|S2
 </details>
