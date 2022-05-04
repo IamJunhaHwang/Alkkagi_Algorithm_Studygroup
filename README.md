@@ -40,4 +40,6 @@
   |4주차|회의실 배정|[백준 1931](https://www.acmicpc.net/problem/1931)|그리디|S2
   |5주차|접두사|[백준 1141](https://www.acmicpc.net/problem/1141)|구현, 정렬|S2
   |6주차|바이러스|[백준 2606](https://www.acmicpc.net/problem/2606)|그래프, DFS, BFS|S3
+  |7주차|나이트의 이동|[백준 7562](https://www.acmicpc.net/problem/7562)|그래프, BFS|S1
+  
 </details>
