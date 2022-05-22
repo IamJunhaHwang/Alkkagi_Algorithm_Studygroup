@@ -42,5 +42,6 @@
   |6주차|바이러스|[백준 2606](https://www.acmicpc.net/problem/2606)|그래프, DFS, BFS|S3
   |7주차|나이트의 이동|[백준 7562](https://www.acmicpc.net/problem/7562)|그래프, BFS|S1
   |8,9주차|최소비용 구하기|[백준 1916](https://www.acmicpc.net/problem/1916)|그래프, 다익스트라|G5
+  |10주차|사다리|[백준 2022](https://www.acmicpc.net/problem/2022)|수학, 이분탐색|S1
   
 </details>
