@@ -3,13 +3,13 @@
 #include<queue>
 using namespace std;
 
-#define MAX 1001  //ÃÖ´ë°ª (µµ½Ã °³¼ö)
-#define INF 9876543210  //¹«ÇÑ´ë Á¤ÀÇ
+#define MAX 1001  //ìµœëŒ€ê°’ (ë„ì‹œ ê°œìˆ˜)
+#define INF 9876543210  //ë¬´í•œëŒ€ ì •ì˜
 
 vector<pair<int, int>>bus[MAX];  //next, cost
 priority_queue<pair<int, int>>pq;  //cost,next
-vector<int>res(MAX, INF);  //°á°ú ÀúÀå ¹è¿­(°¡ÁßÄ¡ °è»ê) - ¹«ÇÑ´ë·Î ÃÊ±âÈ­
-int x1, x2;  //Ãâ¹ßÁ¡, µµÂøÁ¡
+vector<int>res(MAX, INF);  //ê²°ê³¼ ì €ì¥ ë°°ì—´(ê°€ì¤‘ì¹˜ ê³„ì‚°) - ë¬´í•œëŒ€ë¡œ ì´ˆê¸°í™”
+int x1, x2;  //ì¶œë°œì , ë„ì°©ì 
 
 void dijkstra() {
 	pq.push({ 0, x1 });
@@ -17,11 +17,11 @@ void dijkstra() {
 	while (!pq.empty()) {
 		int cur = pq.top().second;
 		int cost = -pq.top().first;
-		//¿ì¼±¼øÀ§ Å¥´Â pairÀÇ first ±¸°£À» ¿ì¼±ÀûÀ¸·Î ºñ±³ÇÏ¹Ç·Î
-		//cost¸¦ À½¼ö·Î »ğÀÔ - ÃÖ¼Ò ºñ¿ëÀ» ±¸ÇØ¾ßÇÏ±â ¶§¹®
+		//ìš°ì„ ìˆœìœ„ íëŠ” pairì˜ first êµ¬ê°„ì„ ìš°ì„ ì ìœ¼ë¡œ ë¹„êµí•˜ë¯€ë¡œ
+		//costë¥¼ ìŒìˆ˜ë¡œ ì‚½ì… - ìµœì†Œ ë¹„ìš©ì„ êµ¬í•´ì•¼í•˜ê¸° ë•Œë¬¸
 		pq.pop();
 
-		if (res[cur] < cost)  //Áßº¹µÈ Á¤Á¡ÀÎÁö È®ÀÎ
+		if (res[cur] < cost)  //ì¤‘ë³µëœ ì •ì ì¸ì§€ í™•ì¸
 			continue;
 
 		for (int i = 0; i < bus[cur].size(); i++) {
@@ -55,7 +55,7 @@ int main(void) {
 	return 0;
 }
  
-/* dfs ±íÀÌ°¡ ±í¾îÁ®¼­ ½ºÅÃ¸Ş¸ğ¸® ÃÊ°ú 
+/* dfs ê¹Šì´ê°€ ê¹Šì–´ì ¸ì„œ ìŠ¤íƒë©”ëª¨ë¦¬ ì´ˆê³¼ 
 #include<iostream>
 #include<vector>
 #include<tuple>
