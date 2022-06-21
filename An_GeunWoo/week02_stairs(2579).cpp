@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-int max(int a, int b) { //Å©±â ºñ±³ÇÏ´Â »ç¿ëÀÚ Á¤ÀÇ ÇÔ¼ö
+int max(int a, int b) { //í¬ê¸° ë¹„êµí•˜ëŠ” ì‚¬ìš©ìž ì •ì˜ í•¨ìˆ˜
 	if (a > b) {
 		return a;
 	}
@@ -17,7 +17,7 @@ int main() {
 
 	cin >> n;
 
-	for (int i = 1; i <= n; i++) { //dp¿Í ÀÎµ¦½º¸¦ ¸ÂÃß±â À§ÇØ 1ºÎÅÍ »ðÀÔ
+	for (int i = 1; i <= n; i++) { //dpì™€ ì¸ë±ìŠ¤ë¥¼ ë§žì¶”ê¸° ìœ„í•´ 1ë¶€í„° ì‚½ìž…
 		cin >> arr[i];
 	}
 
