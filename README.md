@@ -34,15 +34,16 @@
   
   |순번|문제|링크|TAG|티어|
   |:------:|:---:|:---:|:---:|:--:|
-  |1주차|국회의원 선거|[백준 1417](https://www.acmicpc.net/problem/1417)|구현, 그리디|S5
-  |2주차|계단 오르기|[백준 2579](https://www.acmicpc.net/problem/2579)|DP|S3
-  |3주차|수 복원하기|[백준 2312](https://www.acmicpc.net/problem/2312)|수학|S3
-  |4주차|회의실 배정|[백준 1931](https://www.acmicpc.net/problem/1931)|그리디|S2
-  |5주차|접두사|[백준 1141](https://www.acmicpc.net/problem/1141)|구현, 정렬|S2
-  |6주차|바이러스|[백준 2606](https://www.acmicpc.net/problem/2606)|그래프, DFS, BFS|S3
-  |7주차|나이트의 이동|[백준 7562](https://www.acmicpc.net/problem/7562)|그래프, BFS|S1
-  |8,9주차|최소비용 구하기|[백준 1916](https://www.acmicpc.net/problem/1916)|그래프, 다익스트라|G5
-  |10주차|사다리|[백준 2022](https://www.acmicpc.net/problem/2022)|수학, 이분탐색|S1
-  |11주차|숨바꼭질|[백준 1697](https://www.acmicpc.net/problem/1697)|그래프, BFS|S1
+  |1 번|국회의원 선거|[백준 1417](https://www.acmicpc.net/problem/1417)|구현, 그리디|S5
+  |2 번|계단 오르기|[백준 2579](https://www.acmicpc.net/problem/2579)|DP|S3
+  |3 번|수 복원하기|[백준 2312](https://www.acmicpc.net/problem/2312)|수학|S3
+  |4 번|회의실 배정|[백준 1931](https://www.acmicpc.net/problem/1931)|그리디|S2
+  |5 번|접두사|[백준 1141](https://www.acmicpc.net/problem/1141)|구현, 정렬|S2
+  |6 번|바이러스|[백준 2606](https://www.acmicpc.net/problem/2606)|그래프, DFS, BFS|S3
+  |7 번|나이트의 이동|[백준 7562](https://www.acmicpc.net/problem/7562)|그래프, BFS|S1
+  |8 번|최소비용 구하기|[백준 1916](https://www.acmicpc.net/problem/1916)|그래프, 다익스트라|G5
+  |9 번|사다리|[백준 2022](https://www.acmicpc.net/problem/2022)|수학, 이분탐색|S1
+  |10 번|숨바꼭질|[백준 1697](https://www.acmicpc.net/problem/1697)|그래프, BFS|S1
+  |11 번|오르막수|[백준 11057](https://www.acmicpc.net/problem/11057)|DP|S1
   
 </details>
