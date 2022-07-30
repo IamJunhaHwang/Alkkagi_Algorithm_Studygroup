@@ -47,5 +47,7 @@
   |11 번|오르막수|[백준 11057](https://www.acmicpc.net/problem/11057)|DP|S1
   |12 번|평범한 배낭|[백준 12865](https://www.acmicpc.net/problem/12865)|DP, knapsack|G5
   |13 번|효율적인 해킹|[백준 1325](https://www.acmicpc.net/problem/1325)|그래프, DFS, BFS|S1
+  |14 번|미친 로봇|[백준 1405](https://www.acmicpc.net/problem/1405)|그래프, BFS, 수학|G5
+  |15 번|색종이 만들기|[백준 2630](https://www.acmicpc.net/problem/2630)|분할정복, 재귀|S2
   
 </details>
