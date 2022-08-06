@@ -52,3 +52,23 @@
   |16 번|쇠막대기|[백준 10799](https://www.acmicpc.net/problem/10799)|스택, 자료구조|S3
   
 </details>
+
+### :chart_with_upwards_trend: BOJ(solved.ac) Profile
+
+- <details><summary>Profile</summary>
+
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jhhwghg9911)](https://solved.ac/jhhwghg9911)
+  
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sdlee130)](https://solved.ac/sdlee130)
+  
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qudwns8616)](https://solved.ac/qudwns8616)
+  
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kgeunwo77)](https://solved.ac/kgeunwo77)
+  
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=n9805h)](https://solved.ac/n9805h)
+  
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlftj13)](https://solved.ac/wlftj13)
+  
+</details>
+
+
