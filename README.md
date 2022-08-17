@@ -1,4 +1,4 @@
-## 📖 Alkkagi_Algorithm_society
+## 📖 Alkkagi_Algorithm_Studygroup
 
 #### *해당 레포지토리는 알고리즘 동아리에서 해결한 문제들을 기록하기 위해 만들어졌습니다.*   
 <p></p>   
