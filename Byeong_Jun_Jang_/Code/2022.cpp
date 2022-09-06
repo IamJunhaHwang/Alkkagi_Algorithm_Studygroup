@@ -3,7 +3,7 @@
 #include <algorithm>
 using namespace std;
 int main() {
-	double x, y, c; // 각 변수 float 선언시 시간초과 발생
+	double x, y, c;
 	cin >> x >> y >> c; /* 
 						d= d1+ d2		 d는 밑변 h는 높이
 						h1=sqrt(x^2-d^2) 
