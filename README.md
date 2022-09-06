@@ -71,6 +71,8 @@
   
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=colini)](https://solved.ac/colini)
   
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dltjrqja1)](https://solved.ac/dltjrqja1)
+  
   
   
 </details>
