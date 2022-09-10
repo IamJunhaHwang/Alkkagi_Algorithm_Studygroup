@@ -57,7 +57,7 @@
   
 </details>
 
- <details><summary>백준 BOJ [22.09.10. ~ ] </summary>
+- <details><summary>백준 BOJ [22.09.10. ~ ] </summary>
   <br></br>
   
   |순번|문제|링크|TAG|티어|
