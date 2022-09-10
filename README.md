@@ -57,6 +57,16 @@
   
 </details>
 
+ <details><summary>백준 BOJ [22.09.10. ~ ] </summary>
+  <br></br>
+  
+  |순번|문제|링크|TAG|티어|
+  |:------:|:---:|:---:|:---:|:--:|
+  |17 번|동물원|[백준 1309](https://www.acmicpc.net/problem/1309)|DP|S1
+ 
+  
+</details>
+
 ### :chart_with_upwards_trend: BOJ(solved.ac) Profile
 
 - <details><summary>Profile</summary>
