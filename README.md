@@ -63,6 +63,7 @@
   |순번|문제|링크|TAG|티어|
   |:------:|:---:|:---:|:---:|:--:|
   |17 번|동물원|[백준 1309](https://www.acmicpc.net/problem/1309)|DP|S1
+  |18 번|암호 만들기|[백준 1759](https://www.acmicpc.net/problem/1759)|브루트포스,백트래킹,|G5
  
   
 </details>
