@@ -73,19 +73,37 @@
 
 - <details><summary>Profile</summary>
 
+  <br></br>
+  
+  **황준하**  
+    
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jhhwghg9911)](https://solved.ac/jhhwghg9911)
+  
+  **이승동** 
   
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sdlee130)](https://solved.ac/sdlee130)
   
+  **장병준** 
+  
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qudwns8616)](https://solved.ac/qudwns8616)
+  
+  **안근우** 
   
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kgeunwo77)](https://solved.ac/kgeunwo77)
   
+  **홍진석** 
+  
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=n9805h)](https://solved.ac/n9805h)
+  
+  **염진봉** 
   
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlftj13)](https://solved.ac/wlftj13)
   
+  **강인우** 
+  
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=colini)](https://solved.ac/colini)
+  
+  **이석범** 
   
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dltjrqja1)](https://solved.ac/dltjrqja1)
   
