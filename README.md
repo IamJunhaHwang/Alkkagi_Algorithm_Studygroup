@@ -4,10 +4,23 @@
 #### `공식적인 동아리 활동이 종료(~22.08.30.)된 후에도 활동을 이어갑니다.`
 <p></p>   
 
-#### 🤵 동아리원: [황준하](https://github.com/IamJunhaHwang), [이승동](https://github.com/sdlee130), [장병준](https://github.com/ByeongJun-Jang), [안근우](https://github.com/kgeunwo77), [염진봉](https://github.com/jinbong-yeom), [홍진석](https://github.com/Hong-JinSuk)    
-#### 🚶 추가인원(22.09.07. ~ ): [이석범](https://github.com/stoneTiger0912), [강인우](https://github.com/kiw331)
-#### **기간**: 🕐 22.03.10 ~
+
+
+### 🤵 Member Info
+
+#### All of us: Dept of Computer Engineering in ChungBuk National Univ
+
+- [황준하](https://github.com/IamJunhaHwang), hwang_junha@naver.com, ChungBuk National Univ(Undergraduate).
+
+- [이승동](https://github.com/sdlee130)
+- [장병준](https://github.com/ByeongJun-Jang)
+- [안근우](https://github.com/kgeunwo77)
+- [염진봉](https://github.com/jinbong-yeom)
+- [홍진석](https://github.com/Hong-JinSuk)    
+- [이석범](https://github.com/stoneTiger0912)
+- [강인우](https://github.com/kiw331)
 <br></br>
+
 ### 📝 기록 방법
 
 - 동아리원별로 폴더를 만들어 관리합니다.
@@ -24,12 +37,14 @@
 - 백준 티어 기준 `골드`를 목표로 합니다.
 
 - 문제 선정 순서: `강인우` -> `홍진석` -> `염진봉` -> `안근우` -> `장병준` -> `이승동` -> `이석범` -> `황준하`
+<br></br>
 
 ### 📢 대면 활동
 
 - 매주 목요일 학교 E8-1 Study Room 에서 대면 활동을 합니다.
 - 여기에서는 각자 문제를 접근한 방식과 풀이 방법(알고리즘), 문제를 풀며 만난 오류 및 그 해결에 대해 주로 다룹니다. 
 - 자신이 겪었던 문제들을 공유하고, 이에 대한 해결 방안을 이야기하며 다른 사람들과의 생각을 공유합니다.
+<br></br>
 
 ### 🏷️ 풀은 문제
 
