@@ -11,6 +11,7 @@ for i in range(n):
     if books[i]>0:
         lidx = i-1
         break
+    lidx=i
 ridx = lidx+1   # 양수 시작 인덱스
 
 # 리스트 범위를 벗어나지 않는 선에서 양 끝에 부터 +-m만큼의 위치에 있는 책위치의 절대값을 차례로 더한다
