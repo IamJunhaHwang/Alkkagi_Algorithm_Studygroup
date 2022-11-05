@@ -16,7 +16,7 @@
 - [장병준](https://github.com/ByeongJun-Jang)
 - [안근우](https://github.com/kgeunwo77)
 - [염진봉](https://github.com/jinbong-yeom)
-- [홍진석](https://github.com/Hong-JinSuk)    
+- [홍진석](https://github.com/Hong-JinSuk), n9805h@naver.com, ChungBuk National University(undergrauate).
 - [이석범](https://github.com/stoneTiger0912)
 - [강인우](https://github.com/kiw331)
 <br></br>
