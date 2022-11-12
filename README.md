@@ -81,6 +81,7 @@
   |18 번|암호 만들기|[백준 1759](https://www.acmicpc.net/problem/1759)|브루트포스,백트래킹,조합론|G5   
   |19 번|월드컵|[백준 6987](https://www.acmicpc.net/problem/6987)|브루트포스,백트래킹|G5   
   |20 번|도서관|[백준 1461](https://www.acmicpc.net/problem/1461)|그리디 알고리즘, 정렬|G5
+  |21 번|별찍기-10|[백준 2447](https://www.acmicpc.net/problem/2447)|분할 정복, 재귀|G5
   
 </details>
 
