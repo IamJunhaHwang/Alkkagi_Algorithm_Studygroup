@@ -8,16 +8,16 @@
 
 ### 🤵 Member Info
 
-#### All of us: Dept of Computer Engineering in ChungBuk National Univ
+#### All of us: Dept of Computer Engineering in ChungBuk National Univ(Undergraduate)
 
-- [황준하](https://github.com/IamJunhaHwang), hwang_junha@naver.com, ChungBuk National Univ(Undergraduate).
+- [황준하](https://github.com/IamJunhaHwang), hwang_junha@naver.com, [Blog](https://velog.io/@jhhwghg9911)
 
-- [이승동](https://github.com/sdlee130)
+- [이승동](https://github.com/sdlee130), sdlee130@naver.com
 - [장병준](https://github.com/ByeongJun-Jang)
 - [안근우](https://github.com/kgeunwo77)
 - [염진봉](https://github.com/jinbong-yeom)
-- [홍진석](https://github.com/Hong-JinSuk), n9805h@naver.com, ChungBuk National University(undergrauate).
-- [이석범](https://github.com/stoneTiger0912)
+- [홍진석](https://github.com/Hong-JinSuk), n9805h@naver.com
+- [이석범](https://github.com/stoneTiger0912), [블로그](https://stonetiger0912.github.io/)
 - [강인우](https://github.com/kiw331)
 <br></br>
 
