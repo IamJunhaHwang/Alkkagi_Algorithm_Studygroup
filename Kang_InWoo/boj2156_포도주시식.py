@@ -1,10 +1,9 @@
 n = int(input())
 l = [int(input()) for _ in range(n)]
 
-if n<3:    print(sum(l))
+if n<3:    print(sum(l))    # 두잔 이하일때는 그냥 더하면됨
 
 else:
-    res = 0    
     t = [0, l[0],l[0]+l[1]] + [0 for _ in range(n-2)]  # t[i] = i잔 까지 고려한  최대값
      
     for i in range(2,n):
