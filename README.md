@@ -83,6 +83,8 @@
   |20 번|도서관|[백준 1461](https://www.acmicpc.net/problem/1461)|그리디 알고리즘, 정렬|G5
   |21 번|별찍기-10|[백준 2447](https://www.acmicpc.net/problem/2447)|분할 정복, 재귀|G5
   |22 번|포도주 시식|[백준 2156](https://www.acmicpc.net/problem/2156)|DP|S1
+  |23 번|피자 굽기|[백준 1756](https://www.acmicpc.net/problem/1756)|구현|G5
+  |24 번|용액 합성하|[백준 14921](https://www.acmicpc.net/problem/14921)|정렬, 두 |G5
   
 </details>
 
