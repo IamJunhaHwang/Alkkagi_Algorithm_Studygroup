@@ -3,40 +3,51 @@
 
 using namespace std;
 
-int D, N;
+int d, n;
 vector<int> Oven;
 vector<int> Pizza;
 
 int main() {
 
-	cin >> D >> N;
+	cin >> d >> n;
 
 	int num;
-	for (int i = 1; i < D+1; i++) {
+	Oven.push_back(NULL); // 그냥 1부터 넣고 싶어서...
+	for (int i = 1; i < d+1; i++) {
 		cin >> num;
 		Oven.push_back(num);
 	}
 
-	for (int i = 0; i < N; i++) {
+	for (int i = 0; i < n; i++) {
 		cin >> num;
 		Pizza.push_back(num);
 	}
 
-	int Loc = 0;
-	for (int i = 0; i < N; i++) {
-		for (int j = 1; j < D+1; j++) {
-			if (j == D) { // 피자가 오븐에 걸리지 않고 밑바닥에 들어가면
-				D--;
-				Loc = j;
+	for (int i = 1; i < d + 1; i++) {
+		// 어차피 아래가 커봤자 위에서 내려가면 다 내려가짐
+		if (i == d) break;
+		if (Oven[i + 1] > Oven[i]) Oven[i + 1] = Oven[i];
+	}
+
+	int Loc = d;
+	for (int j = 0; j < n; j++) {
+		int cnt = 0;
+		for (int i = d; i > 0; i--) {
+			cnt++;
+			if (Pizza[j] <= Oven[i]) { //피자가 i까지 내려가면
+				Loc -= cnt;
+				d = i - 1;
+				if (d == 0) Loc = -1; // 꽉차면 0
+				break; // 다음피자로
 			}
-			else if (Pizza[i] > Oven[j]) { // 피자가 오븐에 걸리면
-				D = j - 1;
-				Loc = j;
+			if (i == 1) {
+				Loc = -1;
+				d = 1;
 			}
 		}
 	}
 
-	cout << Loc;
+	cout << Loc + 1;
 
 	return 0;
 }
