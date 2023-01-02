@@ -85,8 +85,8 @@
   |22 번|포도주 시식|[백준 2156](https://www.acmicpc.net/problem/2156)|DP|S1
   |23 번|피자 굽기|[백준 1756](https://www.acmicpc.net/problem/1756)|구현|G5
   |24 번|용액 합성하기|[백준 14921](https://www.acmicpc.net/problem/14921)|정렬, 두 포인터|G5
-  |25 번|가르침|[백준 1062](https://www.acmicpc.net/problem/1062)| ? |G4
-  |26 번|숨바꼭질 4|[백준 13913](https://www.acmicpc.net/problem/13913)| ? |G4
+  |25 번|가르침|[백준 1062](https://www.acmicpc.net/problem/1062)|부루트포스, 백트래킹|G4
+  |26 번|숨바꼭질 4|[백준 13913](https://www.acmicpc.net/problem/13913)|그래프, BFS|G4
   
 </details>
 
