@@ -88,7 +88,7 @@
   |25 번|가르침|[백준 1062](https://www.acmicpc.net/problem/1062)|부루트포스, 백트래킹|G4
   |26 번|숨바꼭질 4|[백준 13913](https://www.acmicpc.net/problem/13913)|그래프, BFS|G4
   |27 번|공통 부분 문자열|[백준 5582](https://www.acmicpc.net/problem/5582)|DP|G5
-  |28 번|쌓기나무|[백준 13269](https://www.acmicpc.net/problem/13269)|?|G4
+  |28 번|쌓기나무|[백준 13269](https://www.acmicpc.net/problem/13269)|구현, 그리디|G4
   
   
 </details>
