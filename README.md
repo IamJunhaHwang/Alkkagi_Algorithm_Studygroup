@@ -90,7 +90,7 @@
   |27 번|공통 부분 문자열|[백준 5582](https://www.acmicpc.net/problem/5582)|DP|G5
   |28 번|쌓기나무|[백준 13269](https://www.acmicpc.net/problem/13269)|구현, 그리디|G4
   |29 번|부분합|[백준 1806](https://www.acmicpc.net/problem/1806)|투 포인터|G4
-  |30 번|최단경로|[백준 1753](https://www.acmicpc.net/problem/1753)||G4
+  |30 번|최단경로|[백준 1753](https://www.acmicpc.net/problem/1753)|다익스트라|G4
   
   
 </details>
