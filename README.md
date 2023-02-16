@@ -91,8 +91,8 @@
   |28 번|쌓기나무|[백준 13269](https://www.acmicpc.net/problem/13269)|구현, 그리디|G4
   |29 번|부분합|[백준 1806](https://www.acmicpc.net/problem/1806)|투 포인터|G4
   |30 번|최단경로|[백준 1753](https://www.acmicpc.net/problem/1753)|다익스트라|G4
-  |31 번|최소 스패닝 트리|[백준 1197](https://www.acmicpc.net/problem/1197)| |G4
-  |32 번|복날|[백준 1686](https://www.acmicpc.net/problem/1686)| |G4
+  |31 번|최소 스패닝 트리|[백준 1197](https://www.acmicpc.net/problem/1197)|그래프, 최소 스패닝 트리 |G4
+  |32 번|복날|[백준 1686](https://www.acmicpc.net/problem/1686)|그래프, BFS|G4
   
   
 </details>
